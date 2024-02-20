@@ -1,0 +1,35 @@
+Exercise 1:
+
+Hình 1: 
+Đầu ra của chương trình sẽ ra 6. 
+Có 2 biến n và m lần lượt có giá trị là 7 và 6. 
+Vì 2 biến con trỏ lần lượt là pn và pm được gán cho địa chỉ của n và m. 
+Nó thay đổi giá trị của n thông qua con trỏ pn để trở thành -3 và m thông qua con trỏ pm thành 9.
+
+Hình 2: 
+Đầu ra của chương trình sẽ ra 3. 
+Có 2 biến c1 và c2 lần lượt có giá trị là A(65) và F(68). 
+Vì 2 biến con trỏ lần lượt là pn và pm được gán cho địa chỉ của c1 và c2. 
+Nó thay đổi giá trị của c1 thông qua con trỏ p1 để trở thành c1 + 3, tức là 'A' + 3 = 'D'. 
+Và nó thay đổi giá trị của c2 thông qua con trỏ p2 để trở thành c2 - 5, tức là 'F' - 5 = 'A'.
+
+Hình 3: 
+Đầu ra là 13.1. 
+Có 2 biến x và y lần lượt có giá trị là 3.2 và 5.1. 
+Vì 2 biến con trỏ lần lượt là p1 và p2 được gán cho địa chỉ của x và y. 
+Nó thay đổi giá trị của x thông qua con trỏ p1 để trở thành -4 và y thông qua con trỏ p2 thành 17.1.
+
+Exercise 2: 
+Hình 1: Output: 8
+
+Hình 2: n = 260
+	n = 0
+
+Exercise 3:
+Hình 1: Giá trị của biến L sau khi thực thi đoạn mã là 6.
+
+Hình 2: Giá trị của a sẽ là 6 và giá trị của b sẽ là 7.
+
+Hình 3: Giá trị của biến c sau khi thực thi đoạn mã này là 2
+
+
